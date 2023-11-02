@@ -1,7 +1,7 @@
 # Tests the ranked choice function.
 
 import unittest
-from ranked_choice import ranked_choice
+from election_systems.ranked_choice import ranked_choice
 
 
 class TestRankedChoice(unittest.TestCase):

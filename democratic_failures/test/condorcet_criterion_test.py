@@ -1,7 +1,7 @@
 # Tests the condorcet_criterion function.
 
 import unittest
-from condorcet_criterion import condorcet
+from democratic_failures.condorcet_criterion import condorcet
 
 
 class TestCondorcet(unittest.TestCase):

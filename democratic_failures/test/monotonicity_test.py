@@ -1,6 +1,6 @@
 # Tests for borda count function
 import unittest
-from monotonicity import monotonicity
+from democratic_failures.monotonicity import monotonicity
 
 
 class TestMonotonicity(unittest.TestCase):

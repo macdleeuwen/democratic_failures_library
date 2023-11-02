@@ -4,7 +4,7 @@
 # https://en.wikipedia.org/wiki/Independence_of_irrelevant_alternatives
 
 import unittest
-from independence_of_irrelevant_alternatives import iia
+from democratic_failures.independence_of_irrelevant_alternatives import iia
 
 
 class IIA_Test(unittest.TestCase):

@@ -1,6 +1,6 @@
 # Tests for first past the post function
 import unittest
-from first_past_the_post import first_past_the_post
+from election_systems.first_past_the_post import first_past_the_post
 
 
 class TestFirstPastThePost(unittest.TestCase):

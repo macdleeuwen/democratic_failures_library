@@ -1,6 +1,6 @@
 # Tests for copeland method function
 import unittest
-from copeland import copeland
+from election_systems.copeland import copeland
 
 
 class TestCopeland(unittest.TestCase):

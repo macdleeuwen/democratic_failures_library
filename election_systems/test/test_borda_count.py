@@ -1,6 +1,6 @@
 # Tests for borda count function
 import unittest
-from borda_count import borda_count
+from election_systems.borda_count import borda_count
 
 
 class TestFirstPastThePost(unittest.TestCase):
